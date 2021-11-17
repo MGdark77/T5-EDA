@@ -45,7 +45,7 @@ After looking at this data visualization, we choose the appropriate regions for 
 After looking at this data visualization, we notice that the frequency of average speed doesn't exceed 30 km/h and there is some hours doesn't record:
 
 - The x-axis shows the months as the y-axis shows the average of wind speed  of all regions.
-- The minimum wind speed in order to move the turbine is approximately 13 and the average wind speed needs more to activate the wind energy fields, for this, we need to verify the validity of the data to study the level of the length of the turbine tower and what it adds as a auxiliary factor.
+- The minimum wind speed in order to move the turbine is approximately 13km/h and the average wind speed needs more to activate the wind energy fields, for this we need to verify the validity of the data and we need to study the level of the hihg of the turbine tower and what it adds as a auxiliary factor.
 
 ### **Conclusion:**
 We will try to find out is there a possibility to connect the stations in the regions close to each other by knowing the synchronization of the weather change from one region to another.
