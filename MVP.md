@@ -42,10 +42,11 @@ After looking at this data visualization, we choose the appropriate regions for 
 
 ![](https://github.com/MGdark77/T5-EDA/blob/234a6cced06d12b8fd10fb2f22df0768f110f4fe/Frequency%20of%20Wind%20Speed.png)
 
-After looking at this data visualization, we notice that the frequency of average speed doesn't exceed 30 km/h and there is some hours doesn't record:
+After looking at this data visualization, we notice that the frequency of average speed doesn't even reach out to 30 km/h and there is some hours doesn't record:
 
 - The x-axis shows the months as the y-axis shows the average of wind speed  of all regions.
-- The minimum wind speed in order to move the turbine is approximately 13km/h and the average wind speed needs more to activate the wind energy fields, for this we need to verify the validity of the data and we need to study the level of the hihg of the turbine tower and what it adds as a auxiliary factor.
+- The minimum wind speed in order to move the turbine is approximately 13km/h But the generation efficiency starts from 28 and takes into account the size of the turbine and the height of its tower.
+- We need to verify the validity of the data and we need to study the level of the hihg of the turbine tower and what it adds as a auxiliary factor.
 
 ### **Conclusion:**
 We will try to find out is there a possibility to connect the stations in the regions close to each other by knowing the synchronization of the weather change from one region to another.
