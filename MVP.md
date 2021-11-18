@@ -45,7 +45,7 @@ After looking at this data visualization, we choose the appropriate regions for 
 After looking at this data visualization, we notice that the frequency of average speed doesn't even reach out to 30 km/h and there is some hours doesn't record:
 
 - The x-axis shows the months as the y-axis shows the average of wind speed  of all regions.
-- The minimum wind speed in order to move the turbine is approximately 13km/h But the generation efficiency starts from 28 and takes into account the size of the turbine and the height of its tower.
+- The minimum wind speed in order to move the turbine is approximately 13km/h but the generation efficiency starts from 28 and takes into account the size of the turbine and the height of its tower.
 - We need to verify the validity of the data and we need to study the level of the hihg of the turbine tower and what it adds as a auxiliary factor.
 
 ### **Conclusion:**
