@@ -13,7 +13,9 @@ Number of rows= 249023, Number of columns= 15.
 # Tools
 Numpy and Pandas for data manipulation Matplotlib and Seaborn for plotting Tableau for interactive visualizations Functions: Group by,count, and others functions in python.
 # Communication
-
+https://github.com/MGdark77/T5-EDA/blob/4ba9ca74e7acce031a2dbb5172740a88ea6326e5/Comparison%20of%20regions%20in%20climate.PNG
+https://github.com/MGdark77/T5-EDA/blob/4ba9ca74e7acce031a2dbb5172740a88ea6326e5/Frequency%20of%20wind%20speed%20(2).png
+https://github.com/MGdark77/T5-EDA/blob/4ba9ca74e7acce031a2dbb5172740a88ea6326e5/Frequency%20of%20sunny%20weather%20happend.png
 
 
 
